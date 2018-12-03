@@ -1,0 +1,5 @@
+The DevClub of IIT Delhi (and development in general) is about two things:
+
+1. Development Technologies: Learning how to use various technologies and interfaces to get computers to do certain tasks.
+2. Teamwork: This is where the word 'club' becomes important. Developing any large system requires a lot of people with different talents. One of the important goals of this club is to form and manage teams effectively to get tasks done. 
+
